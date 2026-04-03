@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"D:/OpenClaw/workspace/80-PROJECTS/ai-roundtable\\\" && cat .env 2>/dev/null || echo \\\"NO_ENV\\\"; ls src/\"}",
+  "error": "Exit code 2\n# MiniMax API Key\nMINIMAX_API_KEY=sk-cp-zNNt30MolJOgSwdsdgA8BJbLoKmiV3Zttz_IgZkapeyjoPPq-qYFSw-XiMZIIUyeH4PTB4Y86QXu_wKR8JvmZ9PbkkMmMwDTC6QgHznXopDTl0nBZ9AQHQ8\n\n# 模型名称（根据你的账户可用的模型修改）\n# 常见可用模型：MiniMax-M2.7-highspeed, MiniMax-Text-01, abab6.5s-chat\nMINIMAX_MODEL=MiniMax-M2.7\n\nEMBEDDER_MODEL=embedding-2\nls: cannot access 'src/': No such file or directory",
+  "timestamp": "2026-04-02T13:25:12.084Z",
+  "retry_count": 1
+}
